@@ -24,6 +24,14 @@ node-options=--openssl-legacy-provider
 npm run serve
 ```
 
+### Addition plagin for animation
+
+Library for JS animations
+
+```
+npm i gsap
+```
+
 ### Compiles and minifies for production
 
 ```
